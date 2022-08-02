@@ -1,5 +1,5 @@
 <div style="text-align:center; margin:10px auto;">
-    <img style="margin-left:200px ;" src="./Quick start/assets/img/download.png" alt="">
+    <img style="margin-left:200px ;" src="./assets/img/download.png" alt="">
     <br><br>
 </div>
 <p>
