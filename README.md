@@ -78,46 +78,40 @@
 <pre>
     <code>
         {
-            "workbench.startupEditor": "none",
-            "[javascript]": {
-                "editor.defaultFormatter": "esbenp.prettier-vscode"
-            },
-            "git.enableSmartCommit": true,
-            "git.autofetch": true,
-            "files.autoSave": "afterDelay",
-            "git.confirmSync": false,
-            "editor.fontFamily": "Fira Code",
-            "workbench.iconTheme": "material-icon-theme",
-            "editor.fontLigatures": true,
-            "terminal.integrated.defaultProfile.windows": "Git Bash",
-            "[html]": {
-                "editor.defaultFormatter": "esbenp.prettier-vscode"
-            },
-            "liveServer.settings.donotShowInfoMsg": true,
-            "prettier.printWidth": 160,
-            "editor.mouseWheelZoom": true,
-            "[jsonc]": {
-                "editor.defaultFormatter": "vscode.json-language-features"
-            },
-            "editor.cursorSmoothCaretAnimation": true,
-            "workbench.editor.enablePreview": false,
-            "explorer.confirmDelete": false,
-            "diffEditor.ignoreTrimWhitespace": false,
-            "bracket-pair-colorizer-2.depreciation-notice": false,
-            "workbench.colorTheme": "Dracula Soft",
-            "[css]": {
-                "editor.defaultFormatter": "esbenp.prettier-vscode"
-            },
-            
-            "liveSassCompile.settings.formats": [{
-                "format": "expanded",
-                "extensionName": ".css",
-                "savePath": "~/../css"
-            }
-        ],
-        "liveSassCompile.settings.generateMap": false,
-        
-        }
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "vscode-icons",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.autoSave": "afterDelay",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.mouseWheelZoom": true,
+  "editor.codeLensFontFamily": "Fira Code",
+  "workbench.colorTheme": "Night Owl (No Italics)",
+  "editor.tabCompletion": "on",
+  "editor.formatOnSave": true,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "window.commandCenter": false,
+  "prettier.printWidth": 160,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.confirmDragAndDrop": false,
+
+  // live sass compiler setting ---
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "~/../css"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false
+}
+
     </code>
 </pre>
 
