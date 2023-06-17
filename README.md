@@ -136,14 +136,17 @@
     <li><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner" target="_blank">Code Runner</a></li>
     <li><a href="https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode" target="_blank">Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets</a></li>
 </ol>
-#for javascript
-Auto Import
-Code Runner 
-Code Snapshot 
-ES7+ React/Redux/ React-Native snipit 
-ESLint 
-vscode-icons
-Night Owl ( Theme )
+
+## for javascript
+<ol>
+   <li>Auto Import</li> 
+   <li>Code Runner </li> 
+   <li>Code Snapshot </li> 
+   <li>ES7+ React/Redux/ React-Native snipit </li> 
+   <li>ESLint </li> 
+   <li>vscode-icons</li> 
+   <li>Night Owl ( Theme )</li> 
+</ol>
 
 
 
