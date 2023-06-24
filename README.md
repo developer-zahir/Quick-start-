@@ -149,8 +149,11 @@
 </ol>
 
 
-
-
+## Essential software for me --- 
+<ol>
+    <li><a href="http://www.nattyware.com/qwertick.php" target="_blank">Qwertick ( keyboard type effect sound software )</a></li>
+     <li><a href="https://www.google.com/search?sxsrf=APwXEdd90EgQv0mW5vtYw1bMSiJsmpej1g:1687609238170&q=desktop+pin&sa=X&ved=2ahUKEwjyoaSp8tv_AhVHS2wGHbG_AukQ7xYoAHoECA0QAQ&biw=1920&bih=890&dpr=1" target="_blank">DeskPins </a></li>
+</ol>
 
 
 
