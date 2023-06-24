@@ -18,7 +18,7 @@
     <li>Font Awesome</li>
 </ul>
 
-## File stature -
+## File structure -
 
 <ul>
     <li>assets
