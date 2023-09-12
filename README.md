@@ -77,39 +77,44 @@
 
 <pre>
     <code>
-        {
+    {
   "workbench.startupEditor": "none",
   "workbench.iconTheme": "vscode-icons",
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
   "files.autoSave": "afterDelay",
-  "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
   "editor.mouseWheelZoom": true,
-  "editor.codeLensFontFamily": "Fira Code",
-  "workbench.colorTheme": "Night Owl (No Italics)",
   "editor.tabCompletion": "on",
   "editor.formatOnSave": true,
-  "git.autofetch": true,
   "git.enableSmartCommit": true,
   "git.confirmSync": false,
   "security.workspace.trust.untrustedFiles": "open",
   "window.commandCenter": false,
   "prettier.printWidth": 160,
   "editor.unicodeHighlight.ambiguousCharacters": false,
-  "liveServer.settings.donotShowInfoMsg": true,
   "explorer.confirmDragAndDrop": false,
-
-  // live sass compiler setting ---
-  "liveSassCompile.settings.formats": [
-    {
-      "format": "expanded",
-      "extensionName": ".css",
-      "savePath": "~/../css"
-    }
-  ],
-  "liveSassCompile.settings.generateMap": false
+  "explorer.confirmDelete": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.autofetch": true,
+  "editor.fontFamily": "fira code",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "htmllint.config": {},
+  "editor.linkedEditing": true,
+  "workbench.colorTheme": "Night Owl (No Italics)",
+  "tabnine.experimentalAutoImports": true,
+  "git.openRepositoryInParentFolders": "never",
+  // optionlal settings
+  "emmet.triggerExpansionOnTab": true,
+  "reactSnippets.settings.prettierEnabled": true,
+  "javascript.updateImportsOnFileMove.enabled": "always"
 }
 
     </code>
